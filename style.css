@@ -1,0 +1,87 @@
+.top {
+  background-color: #0d0d0d;
+  background: linear-gradient(90deg, #0d0d0d, #1a1a40);
+  padding: 20px;
+  color: cyan;
+  text-align: center;
+  margin: 0;
+  border-radius: 10px;
+}
+.p1 {
+  color: grey;
+}
+body {
+  background-color: black;
+  background-image: url();
+}
+.intro {
+  color: cyan;
+  margin-top: 60px;
+}
+.txt {
+  color: grey;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.txt2 {
+  text-align: center;
+  color: gray;
+}
+.prob {
+  color: cyan;
+  margin-top: 60px;
+}
+.maindiv {
+  background-image: url("photo.jpg");
+  color: cyan;
+  width: 200px;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  margin: 20px;
+}
+.div-2 {
+  background-image: url("bd8d9573-ef48-4d74-a885-941196936816.jpg");
+  color: cyan;
+  width: 200px;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  margin: 20px;
+}
+.div-3 {
+  background-image: url("a2035829-2be6-4c7d-b60d-11d03ae365ed.jpg");
+  color: cyan;
+  width: 200px;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  margin: 20px;
+}
+.div-4 {
+  background-image: url("7d33df04adc35ebfaf07a9900e66c5de.jpg");
+  color: cyan;
+  width: 200px;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  margin: 20px;
+}
+.mini1 {
+  display: flex;
+  flex-direction: column;
+}
+.mini2 {
+  display: flex;
+  flex-direction: column;
+}
+.all {
+  display: flex;
+  justify-content: center;
+}
+.foot {
+  color: darkgrey;
+  text-align: center;
+  margin-top: 150px;
+}
